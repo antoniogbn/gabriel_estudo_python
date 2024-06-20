@@ -3,6 +3,7 @@ Repositório de estudo de Gabriel Brandao - Material Computação - ENGNAVAL UFR
 
 ## Exercicios
 
+
 - Exercicio 1 - Matriz Simetrica
 
 - Exercicio 2 - Elementos Pares da Matriz
@@ -14,3 +15,5 @@ Repositório de estudo de Gabriel Brandao - Material Computação - ENGNAVAL UFR
 - Exercicio 5 - Diagonal
 
 - Exercicio 6 - Matriz Transposta
+
+[BrosTrendWifiAdapterSoftware](https://github.com/ElectricRCAircraftGuy/BrosTrendWifiAdapterSoftware) 
