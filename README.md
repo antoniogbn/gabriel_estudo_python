@@ -16,4 +16,4 @@ Repositório de estudo de Gabriel Brandao - Material Computação - ENGNAVAL UFR
 
 - Exercicio 6 - Matriz Transposta
 
-[BrosTrendWifiAdapterSoftware](https://github.com/ElectricRCAircraftGuy/BrosTrendWifiAdapterSoftware) 
+- [Exercicio 6 - Matriz Transposta](https://github.com/antoniogbn/gabriel_estudo_python/blob/main/ex6.py) 
